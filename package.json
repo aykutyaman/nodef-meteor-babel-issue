@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "description": "",
+  "main": "",
+  "devDependencies": {
+    "babel-core": "6.x.x",
+    "babel-preset-es2015": "6.x.x"
+  }
+}
